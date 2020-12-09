@@ -8,8 +8,8 @@
   	"body": "<h1>Dra. Eva Kozak</h1><div style='text-align:justify;'> Dra. Eva Kozak es doctora en Ciencias en Biosistemática, Ecología y Manejo de Recursos Naturales y Agrícola; miembro del Sistema Nacional de Investigadores y profesora titular de tiempo completo en la Universidad de Guadalajara, Jalisco, México. Actualmente se dedica a estudiar ecología y sistemática del zooplancton marino, con énfasis en los copépodos planctónicos, especialmente en el contexto de la respuesta de los organismos a la contaminación marina (microplásticos).</div> </br>   </br> <iframe width='100%' height='600' src='https://www.youtube.com/embed/9HgP2Vf1GFw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe> <h1></br> Dr. Antonio Corgos</h1> <div style='text-align:justify'> Dr. Antonio Corgos es Doctor en Biología por la Universidad de A Coruña, España. Profesor Investigador Titular “B” Huésped en el Departamento de Estudios para el Desarrollo Sustentable de Zonas Costeras en la Universidad de Guadalajara, Jalisco, México. Actualmente se dedica a estudiar ecología de tiburón martillo (Sphyrna lewini) juvenil en zonas de cría del Pacífico central mexicano; además la estructura y dinámica poblacional, ecología espacial, ecología trófica, crecimiento; así como ecología de invertebrados marinos y peces del Pacífico central mexicano.</div>  </br>  </br> <iframe width='100%' height='600' src='https://www.youtube.com/embed/7i1GAKIwp1c' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 
   },{
-	"id": "33",
-	"slug": "33",
+	"id": "6",
+	"slug": "6",
 	"backgroundImage": "home-bg.gif",
 	"heading": "Lee más sobre la contaminación de los oceanos",
 	"subHeading": "Lee más sobre la contaminación de los oceanos y algunas de nuestras recomendaciones.",
@@ -17,8 +17,8 @@
 	"body": "Consúltalo <a href="Contaminaci%C3%B3n+en+el+Oc%C3%A9ano.+el+impacto+humano+y+recomendaciones+seg%C3%BAn+ODS+14.pdf">aquí</a>"
 
 },{
-	"id": "1",
-	"slug": "1",
+	"id": "5",
+	"slug": "5",
 	"backgroundImage": "home-bg.gif",
 	"heading": "PODCAST: Gracias Océano por tanta vida",
 	"subHeading": "En este capítulo hablaremos sobre qué es el océano y porque es importante para la vida humana.",
@@ -27,8 +27,8 @@
 
 },
 {
-	"id": "2",
-	"slug": "2",
+	"id": "4",
+	"slug": "4",
 	"backgroundImage": "home-bg.gif",
 	"heading": "PODCAST: El océano está enfermo",
 	"subHeading": "En este capítulo hablaremos sobre cuáles son las consecuencias que está sufriendo el océano por el impacto humano.",
@@ -47,8 +47,8 @@
 
 },
 {
-	"id": "4",
-	"slug": "4",
+	"id": "2",
+	"slug": "2",
 	"backgroundImage": "home-bg.gif",
 	"heading": "PODCAST: Salvemos a Nemo",
 	"subHeading": "En este capítulo hablaremos sobre qué es la sobrepesca y porque es un problema.",
@@ -57,8 +57,8 @@
 
 },
 {
-	"id": "5",
-	"slug": "5",
+	"id": "1",
+	"slug": "1",
 	"backgroundImage": "home-bg.gif",
 	"heading": "PODCAST: Sopa de plástico con agua de mar",
 	"subHeading": "En este capítulo hablaremos sobre los plásticos y su impacto en el océano.",
@@ -67,8 +67,8 @@
 
 },
 {
-	"id": "6",
-	"slug": "6",
+	"id": "0",
+	"slug": "0",
 	"backgroundImage": "home-bg.gif",
 	"heading": "(Próximamente) PODCAST: Océano, ¿en qué te puedo ayudar?",
 	"subHeading": "En este capítulo daremos algunas recomendaciones de qué acciones individuales podemos hacer para ayudar al cuidado del océano.",
