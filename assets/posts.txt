@@ -14,7 +14,7 @@
 		"heading": "Lee más sobre la contaminación de los océanos",
 		"subHeading": "Lee más sobre la contaminación de los océanos y algunas de nuestras recomendaciones.",
 		"meta": "23 de noviembre del 2020",
-		"body": "Consúltalo <a target="_blank" href='http://marinee.live/assets/Contaminaci%C3%B3n%20en%20el%20Oc%C3%A9ano.%20el%20impacto%20humano%20y%20recomendaciones%20seg%C3%BAn%20ODS%2014.pdf'>aquí</a>"
+		"body": "Consúltalo <a target='_blank' href='http://marinee.live/assets/Contaminaci%C3%B3n%20en%20el%20Oc%C3%A9ano.%20el%20impacto%20humano%20y%20recomendaciones%20seg%C3%BAn%20ODS%2014.pdf'>aquí</a>"
 	}, {
 		"id": "3",
 		"slug": "3",
